@@ -9,8 +9,13 @@ Esse repositório contém cases sobre minhas Análises de Dados.
 
 OBJETIVO: Utilizar dados abertos para elaborar o seu texto argumentativo-dissertativo e responde aos seguintes questionamentos:
 • Os dados de origem (de onde partiu); 
+
 • Cruzamento de dados e hipóteses (o que pretendia encontrar); 
+
 • O método aplicado (como procedeu); 
+
 • Apresentação visual dos resultados com justificativa para a escolha dos gráficos, tabelas e outros tipos de visualizações; 
+
 • Anexo com o código desenvolvido para realizar as operações necessárias para obter os resultados; 
+
 • Captura de tela da execução do código, que evidencie algum resultado relevante obtido a partir do conjunto de dados (pode ser feito através da exibição de um dos gráficos que compõem o resultado ou do cálculo de uma estatística, correlação etc.). 
