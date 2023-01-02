@@ -5,7 +5,7 @@ Esse repositório contém cases sobre minhas Análises de Dados.
 #### Análises praticadas:
 
 
-1 - Análide de Dados (Case Acadêmico) = Análise de dados com python sobre ingresso de mulheres no ensino superior no curso de ciências de dados, para cumprir a avaliação da disciplina "MOD. D - FUNDAMENTOS EM DATA SCIENCE E ANÁLISE ESTATÍSTICA DE DADOS" no 2º período do Superior de Tecnologia em Data Science na UNINASSAU.
+1 - Case Acadêmico = Análise de dados com python sobre ingresso de mulheres no ensino superior no curso de ciências de dados, para cumprir a avaliação da disciplina "MOD. D - FUNDAMENTOS EM DATA SCIENCE E ANÁLISE ESTATÍSTICA DE DADOS" no 2º período do Superior de Tecnologia em Data Science na UNINASSAU.
 OBJETIVO: Utilizar dados abertos para elaborar o seu texto argumentativo-dissertativo e responde aos seguintes questionamentos:
 • Os dados de origem (de onde partiu); 
 
